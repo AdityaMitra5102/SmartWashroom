@@ -1,6 +1,7 @@
 # SmartWashroom
 The com port address in the powershell file needs to be changed to the appropriate com port where the arduino is connected.
 The adb drivers for the android device needs to be installed.
+The QR Scanner app must be installed in the android device.
 
 Instructions to run:
 Clone and extract the full repository.
